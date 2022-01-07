@@ -1,0 +1,7 @@
+What is Version control System
+What is Source Code Management
+What is difference between Centralized and Decentralized Version control systems.
+Give few examples related to Centralized and De-centralized Version Control systems.
+Explain them?
+What is GIT?
+Is GIT centralized or de-centralized VCS? 
