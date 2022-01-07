@@ -5,3 +5,5 @@ Give few examples related to Centralized and De-centralized Version Control syst
 Explain them?
 What is GIT?
 Is GIT centralized or de-centralized VCS? 
+
+Answer these questions and push to remote git repo..
